@@ -1,0 +1,5 @@
+{
+  "name": "SS36 Monitor",
+  "description": "Monitoraggio in tempo reale delle aperture, chiusure e lavori sulla Strada Statale 36 (Milano - Chiavenna) utilizzando l'intelligenza artificiale per cercare le ultime notizie ANAS.",
+  "requestFramePermissions": []
+}
